@@ -1,0 +1,8 @@
+#!/usr/bin/env python
+
+number = 1 + 2 * 3 / 4.0
+num1 = 5
+print "%.8f \n" "%.1f" % (number,num1)
+print "\n"
+print "%.5f \n" % number
+print "%.3f \n" % num1
